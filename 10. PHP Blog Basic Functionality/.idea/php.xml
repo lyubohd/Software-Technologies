@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Blog/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/Blog/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/Blog/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Blog/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/Blog/vendor/composer" />
+      <path value="$PROJECT_DIR$/Blog/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/Blog/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/Blog/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/Blog/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Blog/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/Blog/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/Blog/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/Blog/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/Blog/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/Blog/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/Blog/vendor/white-october/pagerfanta-bundle" />
+      <path value="$PROJECT_DIR$/Blog/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/Blog/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/Blog/vendor/pagerfanta/pagerfanta" />
+      <path value="$PROJECT_DIR$/Blog/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/Blog/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Blog/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/Blog/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/Blog/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/Blog/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/Blog/vendor/jdorn/sql-formatter" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+</project>
